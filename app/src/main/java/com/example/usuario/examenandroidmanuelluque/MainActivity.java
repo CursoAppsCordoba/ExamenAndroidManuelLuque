@@ -37,8 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button btnLista = (Button) findViewById(R.id.listar);
         btnLista.setOnClickListener(this);
         lista = new HashSet<>();
-        //Set<Contactos> listaSinDuplicados = new HashSet<>(lista);
-        totalcontact.setText("Cantidad de contactos: " + lista.size());
+
 
 
 

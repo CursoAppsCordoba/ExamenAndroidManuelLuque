@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Alta_Activity" />
         <activity android:name=".Baja_Activity" />
-        <activity android:name=".Listar_Activity"></activity>
+        <activity android:name=".Listar_Activity" />
+        <activity android:name=".Modificar_Activity"></activity>
     </application>
 
 </manifest>
